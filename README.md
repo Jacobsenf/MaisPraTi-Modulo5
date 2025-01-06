@@ -22,36 +22,4 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 ### Instruções de uso
 
-## Pré-requisitos
 
-Antes de rodar o projeto, é necessário ter as seguintes ferramentas instaladas no seu computador:
-
-- [Node.js](https://nodejs.org/) - Para rodar o servidor e instalar dependências.
-- [Git](https://git-scm.com/) - Para controle de versão e integração com o repositório.
-
-## Instalação
-
-1. Clone este repositório no seu computador utilizando o comando:
-
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2. Navegue até o diretório do projeto:
-
-    ```bash
-    cd nome-do-diretorio
-    ```
-
-3. Instale as dependências do projeto com o `npm`:
-
-    ```bash
-    npm install
-    ```
-
-## Uso
-
-Para rodar o projeto localmente, use o seguinte comando:
-
-```bash
-npm start
