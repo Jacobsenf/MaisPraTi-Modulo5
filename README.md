@@ -20,6 +20,4 @@ O +PraTi é um movimento social sem fins lucrativos dedicado a identificar e cap
 
 ------------------------------------------------------------------
 
-### Instruções de uso
-
 
